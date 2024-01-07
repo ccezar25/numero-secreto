@@ -1,3 +1,5 @@
+// clonado do github da Alura.
+// curso git/inicio
 let listaDeNumerosSorteados = [];
 let numeroLimite = 40;
 let numeroSecreto = gerarNumeroAleatorio();
